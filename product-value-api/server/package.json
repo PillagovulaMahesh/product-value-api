@@ -1,0 +1,17 @@
+{
+  "name": "product-value-api",
+  "version": "1.0.0",
+  "description": "A simple API to calculate the total value of a list of product objects.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0",
+    "body-parser": "^1.19.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
